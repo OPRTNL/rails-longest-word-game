@@ -25,8 +25,15 @@ li {
   margin-bottom: 30px;
   padding: 5px 10px;
   width: 20px;
+  border-radius: 3px;
 }
 
 #lecendre {
   text-align: center;
+  border: solid 1px;
+  border-radius: 3px;
+}
+
+.footer{
+  margin-top: 50vh;
 }
